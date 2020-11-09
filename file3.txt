@@ -1,3 +1,0 @@
-using atom directly
-bla bla bla
-more staff
